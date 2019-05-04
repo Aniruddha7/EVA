@@ -4,4 +4,3 @@ A kernel/weight matrix/filter/feature extractor is used to extratct features fro
 
 Here is the example for 3x3 convolution
                                      
-
