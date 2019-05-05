@@ -15,6 +15,7 @@ Feature maps/channels/Activation maps are the resultants obtained after convolvi
 here the dot product and summation will be (10x10)+(10x10)+(10x10)=300
 
 Why should we use 3x3 kernels?
+
 Using 3x3 kernel is computation friendly. For e.g if we have the input image of resolution 9x9 and if the kernel of 9x9 is used, then it the network requires 9x9=81 parameters to map the pixels of i/p image and kernels but if the same network is configured using 4(3x3) kernels to convolve over 9x9 image then it requires only 36 parameters to produce same output. Another reason for using 3x3 kernel is the GPUs are well optimized for them.
 
 we need to perform 99 3x3 convolution operation to reach 1x1 from 199x199
