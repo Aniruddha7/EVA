@@ -1,4 +1,4 @@
-##ORDER OF CONCEPTS
+ORDER OF CONCEPTS
 
 How many layers
 
