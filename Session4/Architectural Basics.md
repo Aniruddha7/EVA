@@ -1,3 +1,5 @@
+##ORDER OF CONCEPTS
+
 How many layers
 
 3x3 Convolutions
