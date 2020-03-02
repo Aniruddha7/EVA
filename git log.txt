@@ -1,0 +1,567 @@
+$ git log
+commit c6313f29ba49c9728167674caac113944614f7a8 (HEAD -> master, origin/master)
+Merge: bfcd09b 58e62b0
+Author: Aniruddha <aniruddhaani93@gmail.com>
+Date:   Mon Mar 2 23:39:57 2020 +0530
+
+    Merging Merge branch 'master' of https://github.com/Aniruddha7/EVA
+
+commit bfcd09b334c24e2dd50b19f7b5ed7870c2398bba
+Author: Aniruddha <aniruddhaani93@gmail.com>
+Date:   Mon Mar 2 23:29:24 2020 +0530
+
+    latest commit
+
+commit 58e62b0a9651b54d3b61f0bd87df3318255a9184
+Author: Aniruddha7 <aniruddhaani93@gmail.com>
+Date:   Mon Mar 2 22:09:21 2020 +0530
+
+    Create README.md
+
+commit 9719f46eadc940675504badee6b5dc1d08323767
+Author: Aniruddha7 <aniruddhaani93@gmail.com>
+Date:   Mon Mar 2 22:07:44 2020 +0530
+
+    Delete Session6
+
+commit 9620f544866b5ae986c60b34918e1408676ed9f0
+Author: Aniruddha7 <aniruddhaani93@gmail.com>
+Date:   Mon Mar 2 22:07:11 2020 +0530
+
+    Create Session6
+
+commit 57e5c922dced268ac95614a27c7cf62e056b1f8d
+Author: Aniruddha7 <aniruddhaani93@gmail.com>
+Date:   Mon Mar 2 22:06:17 2020 +0530
+
+    Delete Session6
+
+commit 7ae3aff71ccff75e07d726ac9ee810f68aea6db4
+Author: Aniruddha7 <aniruddhaani93@gmail.com>
+Date:   Mon Mar 2 22:06:00 2020 +0530
+
+    Create Session6
+
+commit 1dc5409f2cd2a94559eec5413862aeccfe83b7bd
+Author: Aniruddha7 <aniruddhaani93@gmail.com>
+Date:   Sat Feb 22 00:53:39 2020 +0530
+
+    Add files via upload
+
+commit 5b0d60097acf4dce42bd938757e9bba1c32e9880
+Author: Aniruddha7 <aniruddhaani93@gmail.com>
+Date:   Mon Feb 17 13:58:09 2020 +0530
+
+    Add files via upload
+
+commit 7cabc214ee829c40e786e8de6e9da3d9880cf889
+Author: Aniruddha7 <aniruddhaani93@gmail.com>
+Date:   Sat Jan 25 06:47:12 2020 +0530
+
+    Create README.md
+
+commit 36d296e0002d952d0b44680b592b6dd7b2b43b2f
+Author: Aniruddha7 <aniruddhaani93@gmail.com>
+Date:   Sat Jan 25 06:22:03 2020 +0530
+
+    Delete pic4.png
+
+commit ca696a686b25cb4f60c6a32278e20f03cfc2120a
+Author: Aniruddha7 <aniruddhaani93@gmail.com>
+Date:   Sat Jan 25 06:21:51 2020 +0530
+
+    Delete pic3.png
+
+commit 875563cbc4ce7ec286c44e561d48fea5d823453f
+Author: Aniruddha7 <aniruddhaani93@gmail.com>
+Date:   Sat Jan 25 06:21:37 2020 +0530
+
+    Delete pic2.png
+
+commit 2dd0f9d9d66458cf157bbe6d6d361cee1a0ebec5
+Author: Aniruddha7 <aniruddhaani93@gmail.com>
+Date:   Sat Jan 25 06:21:23 2020 +0530
+
+    Delete pic1.png
+
+commit 0d0280aa0de8e28c6b4fb3d60229812ecb3fe24e
+Author: Aniruddha7 <aniruddhaani93@gmail.com>
+Date:   Sat Jan 25 06:20:59 2020 +0530
+
+    Add files via upload
+
+commit 1eaa1e0bf2185dc5f58002645b59ed5507285b2f
+Author: Aniruddha7 <aniruddhaani93@gmail.com>
+Date:   Sat Jan 25 06:19:47 2020 +0530
+
+    Create images
+
+commit 959cbbddb47bdda2be6a8b30783d30a6f5470e8a
+Author: Aniruddha7 <aniruddhaani93@gmail.com>
+Date:   Sat Jan 25 06:13:10 2020 +0530
+
+    Add files via upload
+
+commit 347b6d909b26bed21a90cd83acf70bcfc8c662bc
+Author: Aniruddha7 <aniruddhaani93@gmail.com>
+Date:   Sat Jan 25 05:44:31 2020 +0530
+
+    Rename Phase2_Session1.ipynb to Phase II/Session1/Phase2_Session1.ipynb
+
+commit 02a0b6374e00edbe8ee708b9701d50b543f9ea07
+Author: Aniruddha7 <aniruddhaani93@gmail.com>
+Date:   Sat Jan 25 05:42:30 2020 +0530
+
+    Add files via upload
+
+commit edba8a40e0511bcb902f7e5d345cb990f61a63bc
+Author: Aniruddha7 <aniruddhaani93@gmail.com>
+Date:   Sun Nov 17 14:39:19 2019 +0530
+
+    Add files via upload
+
+commit 663ad8fda1ae51ad55033ff28924e62d2c2772a9
+Author: Aniruddha7 <aniruddhaani93@gmail.com>
+Date:   Sun Nov 17 14:36:08 2019 +0530
+
+    Create README.md
+
+commit ace31b1385ecf34a74f50f754322d93bd530840f
+Author: Aniruddha7 <aniruddhaani93@gmail.com>
+Date:   Sun Nov 17 13:33:54 2019 +0530
+
+    Delete annotation.jpg
+
+commit 7b80a8386fe30eb38396ac81a3a05def86d46075
+Author: Aniruddha7 <aniruddhaani93@gmail.com>
+Date:   Sun Nov 17 13:32:41 2019 +0530
+
+    Add files via upload
+
+commit 78162bc4fd882501fb896fc26d634743185e2bbb
+Author: Aniruddha7 <aniruddhaani93@gmail.com>
+Date:   Sun Nov 17 06:20:36 2019 +0530
+
+    Delete Faces.zip
+
+commit 6c15a854dfbbc54f211bc562ebe7c7c18d54251d
+Author: Aniruddha7 <aniruddhaani93@gmail.com>
+Date:   Sun Nov 17 06:19:18 2019 +0530
+
+    Add files via upload
+
+commit 33eeb1d930952fa9b0320c11c06a17d1c0668748
+Author: Aniruddha7 <aniruddhaani93@gmail.com>
+Date:   Thu Nov 14 10:11:32 2019 +0530
+
+    Rename Assignment10.ipynb to Session10/Assignment10.ipynb
+
+commit 1f28e6cff60a8bcb3fe54f09731237deae0f4aa4
+Author: Aniruddha7 <aniruddhaani93@gmail.com>
+Date:   Thu Nov 14 10:09:32 2019 +0530
+
+    Add files via upload
+
+commit 0187203ad3df14b881356f7eee8b88c1c2d9e69e
+Author: Aniruddha7 <aniruddhaani93@gmail.com>
+Date:   Tue Nov 12 02:31:02 2019 +0530
+
+    Rename Assignment_9.ipynb to Session 9/Assignment_9.ipynb
+
+commit 6f58b97df2d24f73519bac980689183e83a7216d
+Author: Aniruddha7 <aniruddhaani93@gmail.com>
+Date:   Tue Nov 12 02:29:30 2019 +0530
+
+    Add files via upload
+
+commit 94ba09ca9db3d44d9fcad359ff9a95ccc12b6afb
+Author: Aniruddha7 <aniruddhaani93@gmail.com>
+Date:   Mon Nov 11 17:52:15 2019 +0530
+
+    Rename Assignment_11.ipynb to Session11/Assignment_11.ipynb
+
+commit 443f3ad248930aca34d29baf9a185c871eb8b467
+Author: Aniruddha7 <aniruddhaani93@gmail.com>
+Date:   Mon Nov 11 17:46:33 2019 +0530
+
+    Add files via upload
+
+commit 3200dd1f7c99a674394e435045ac1aa74910dc4f
+Author: Aniruddha7 <aniruddhaani93@gmail.com>
+Date:   Sun Jun 23 22:36:18 2019 +0530
+
+    Update Assignment_7A.md
+
+commit d33f0532951b6391d40ba68c07280fd6bc7b9081
+Author: Aniruddha7 <aniruddhaani93@gmail.com>
+Date:   Sun Jun 23 22:33:44 2019 +0530
+
+    Update Assignment_7A.md
+
+commit 36f11c336999348a0f8618225cb24e6dfde40258
+Author: Aniruddha7 <aniruddhaani93@gmail.com>
+Date:   Sun Jun 23 22:31:41 2019 +0530
+
+    Update Assignment_7A.md
+
+commit b6a4ab66f6d02688419cf7276cb7f2ef3435bd64
+Author: Aniruddha7 <aniruddhaani93@gmail.com>
+Date:   Sun Jun 23 22:21:54 2019 +0530
+
+    Rename Assignment 7A.md to Assignment_7A.md
+
+commit 1a98e5927d3757549eb7eccb766b46bf9fad46c2
+Author: Aniruddha7 <aniruddhaani93@gmail.com>
+Date:   Sun Jun 23 22:21:11 2019 +0530
+
+    Create Assignment 7A.md
+
+commit 507733152dce6ca37f3e6f1c86a53ba041067ea0
+Author: Aniruddha7 <aniruddhaani93@gmail.com>
+Date:   Sun Jun 23 16:47:17 2019 +0530
+
+    Rename Assignment_7B.ipynb to Session7/Assignment_7B.ipynb
+
+commit 8fd6111aab6ee9342bdf893f2a6a73fe6ded7559
+Author: Aniruddha7 <aniruddhaani93@gmail.com>
+Date:   Sun Jun 23 16:45:31 2019 +0530
+
+    Add files via upload
+
+commit 2819dd2c81db64a6737d542572ce295ec3c33db6
+Author: Aniruddha7 <aniruddhaani93@gmail.com>
+Date:   Sat Jun 15 23:41:28 2019 +0530
+
+    Delete Assignment 6 Raw.md
+
+commit 837ae5e2cf5639adc6f40f0bf780531fdc3124db
+Author: Aniruddha7 <aniruddhaani93@gmail.com>
+Date:   Sat Jun 15 23:35:25 2019 +0530
+
+    Add files via upload
+
+commit 8ed1d48031d3359018ff648168f75e06260687ec
+Author: Aniruddha7 <aniruddhaani93@gmail.com>
+Date:   Sat Jun 15 23:34:51 2019 +0530
+
+    Delete Assignment6B.ipynb
+
+commit cbf1b9b6f024d0e716543d3c199a07eb6a5e496a
+Author: Aniruddha7 <aniruddhaani93@gmail.com>
+Date:   Sat Jun 15 18:34:23 2019 +0530
+
+    Add files via upload
+
+commit 80f2f162a7fa71e4c5454c243bea44909716ec04
+Author: Aniruddha7 <aniruddhaani93@gmail.com>
+Date:   Tue Jun 11 13:27:48 2019 +0530
+
+    Add files via upload
+
+commit 2a90e8a1e6f2dedd3ebbdf3e48edfe2abd42d692
+Author: Aniruddha7 <aniruddhaani93@gmail.com>
+Date:   Tue Jun 11 12:33:34 2019 +0530
+
+    Rename Assignment_6A.ipynb to Session6/Assignment_6A.ipynb
+
+commit 65c2cdfad313852b47029965b3baf73999e77106
+Author: Aniruddha7 <aniruddhaani93@gmail.com>
+Date:   Tue Jun 11 12:32:36 2019 +0530
+
+    Add files via upload
+
+commit fe880af2fbfd35e96be6ffac13a5dd0f89659d65
+Author: Aniruddha7 <aniruddhaani93@gmail.com>
+Date:   Sun Jun 9 08:01:45 2019 +0530
+
+    Create Assignment 6 Raw.md
+
+commit 5dee4a0d5f3dc90fb6d8b8b8702012fdc61e7d0a
+Author: Aniruddha7 <aniruddhaani93@gmail.com>
+Date:   Sun May 26 14:37:41 2019 +0530
+
+    Update 4th_Iteration.ipynb
+
+commit 53e95e5c7e242ef7c2f1621068f07a4209f65c3e
+Author: Aniruddha7 <aniruddhaani93@gmail.com>
+Date:   Sun May 26 14:35:37 2019 +0530
+
+    Update Architectural Basics.md
+
+commit e39095a0412bfd2a3d975da815207da0d5cc6686
+Author: Aniruddha7 <aniruddhaani93@gmail.com>
+Date:   Sun May 26 14:35:18 2019 +0530
+
+    Update Architectural Basics.md
+
+commit e3ba6cee7733419aa5ed620414a1f5aa666d0a19
+Author: Aniruddha7 <aniruddhaani93@gmail.com>
+Date:   Sun May 26 07:52:37 2019 +0530
+
+    Update Architectural Basics.md
+
+commit c340639bd35fd9c8973ce82274522052df5e22bf
+Author: Aniruddha7 <aniruddhaani93@gmail.com>
+Date:   Sun May 26 07:50:16 2019 +0530
+
+    Create Architectural Basics.md
+
+commit 4fbbedfd41d3a40fe4a918aa8de913041fec860b
+Author: Aniruddha7 <aniruddhaani93@gmail.com>
+Date:   Sun May 26 06:27:26 2019 +0530
+
+    Rename 4th_Iteration.ipynb to Session4/4th_Iteration.ipynb
+
+commit 77e924d044ba292921da92cd102d3b7cc29d39b9
+Author: Aniruddha7 <aniruddhaani93@gmail.com>
+Date:   Sun May 26 06:26:21 2019 +0530
+
+    Rename 3rd_Iteration.ipynb to Session4/3rd_Iteration.ipynb
+
+commit 20edffe2320f8505febc0313e2becd2b8885326d
+Author: Aniruddha7 <aniruddhaani93@gmail.com>
+Date:   Sun May 26 06:25:22 2019 +0530
+
+    Rename 2nd_Iteration.ipynb to Session4/2nd_Iteration.ipynb
+
+commit 3244dd04f6afa8e14e7001ecbe393ef5de6fd2a1
+Author: Aniruddha7 <aniruddhaani93@gmail.com>
+Date:   Sun May 26 06:24:47 2019 +0530
+
+    Rename 1st_Iteration.ipynb to Session4/1st_Iteration.ipynb
+
+commit 6cbc3b1a024f23d4efa7f25b081d37cb2e842365
+Author: Aniruddha7 <aniruddhaani93@gmail.com>
+Date:   Sun May 26 06:23:58 2019 +0530
+
+    Add files via upload
+
+commit b5b0b08f95fe18bed4191fd0f5ef067e1bbe1ea7
+Author: Aniruddha7 <aniruddhaani93@gmail.com>
+Date:   Sun May 26 06:23:28 2019 +0530
+
+    Add files via upload
+
+commit 8aa7cbeb2edd3d9c0a689ee281341bde78cf6524
+Author: Aniruddha7 <aniruddhaani93@gmail.com>
+Date:   Sun May 26 06:23:02 2019 +0530
+
+    Add files via upload
+
+commit 3d20b721380f05e1dbd187ed85b3a3fd7952ac23
+Author: Aniruddha7 <aniruddhaani93@gmail.com>
+Date:   Sun May 26 06:22:41 2019 +0530
+
+    Add files via upload
+
+commit 605dc63b82bd38af6ed250ea04ac13d1260856f4
+Author: Aniruddha7 <aniruddhaani93@gmail.com>
+Date:   Sun May 19 08:09:51 2019 +0530
+
+    Rename EVA Session3 comments.md to Session3/EVA Session3 details.md
+
+commit 290c3796b1f2469faa00b23f8db1e7289ead8cea
+Author: Aniruddha7 <aniruddhaani93@gmail.com>
+Date:   Sun May 19 08:09:15 2019 +0530
+
+    Create EVA Session3 comments.md
+
+commit 7e7b81778bf4faf61c66569b6d5d63d6870bd58e
+Author: Aniruddha7 <aniruddhaani93@gmail.com>
+Date:   Sun May 19 08:07:03 2019 +0530
+
+    Rename EVA_Assignment3 (1).ipynb to Session3/EVA_Assignment3 (1).ipynb
+
+commit c5e3414c38245410d2fda91c6347833287cbffb6
+Author: Aniruddha7 <aniruddhaani93@gmail.com>
+Date:   Sun May 19 08:06:18 2019 +0530
+
+    Add files via upload
+
+commit c4dcada9b544a82592f07af73ad5af288e70f5a1
+Author: Aniruddha7 <aniruddhaani93@gmail.com>
+Date:   Sun May 19 08:05:48 2019 +0530
+
+    Delete EVA_Assignment3.ipynb
+
+commit 325c6b192d6c77caa41ccc1c75093e9f99333bff
+Author: Aniruddha7 <aniruddhaani93@gmail.com>
+Date:   Sat May 18 23:42:27 2019 +0530
+
+    Rename EVA_Assignment3.ipynb to Session3/EVA_Assignment3.ipynb
+
+commit bcd1c8c97d9be7c2e40b99ac258785b4bad8d30b
+Author: Aniruddha7 <aniruddhaani93@gmail.com>
+Date:   Sat May 18 23:41:40 2019 +0530
+
+    Rename Assignment 1B.md to Session/Assignment 1B.md
+
+commit 74b1927060a7c74df5b6a550e8bba5504cfbee3d
+Author: Aniruddha7 <aniruddhaani93@gmail.com>
+Date:   Sat May 18 23:40:59 2019 +0530
+
+    Rename Assignment 1A colab link.md to Session/Assignment 1A colab link.md
+
+commit 7ca10d5985d866983857037b0fa9bdd03ba082fc
+Author: Aniruddha7 <aniruddhaani93@gmail.com>
+Date:   Sat May 18 23:40:07 2019 +0530
+
+    Rename EVA_Assignment2.ipynb to Session2/EVA_Assignment2.ipynb
+
+commit 045d0d79c8cb12a190f215ab233a37ec21178932
+Author: Aniruddha7 <aniruddhaani93@gmail.com>
+Date:   Sat May 18 23:39:25 2019 +0530
+
+    Rename Colab link  EVA Assignment2.md to Session2/Colab link  EVA Assignment2.md
+
+commit b270f462526c5d4a8777e9e03aa7b8d02afa4698
+Author: Aniruddha7 <aniruddhaani93@gmail.com>
+Date:   Sat May 18 23:27:41 2019 +0530
+
+    Rename assignment_1a.py to Session/assignment_1a.py
+
+commit 84021e42ab21dded13c37260c1dbd313523863fd
+Author: Aniruddha7 <aniruddhaani93@gmail.com>
+Date:   Sat May 18 23:24:24 2019 +0530
+
+    Add files via upload
+
+commit cf6b7eb3c3090ff44b877d2a3285f1cc012db75b
+Author: Aniruddha7 <aniruddhaani93@gmail.com>
+Date:   Sun May 12 07:33:27 2019 +0530
+
+    Update and rename README.md to Colab link  EVA Assignment2.md
+
+commit 243add6f911e1a51a60a22b7afc71db8e8fe308a
+Author: Aniruddha7 <aniruddhaani93@gmail.com>
+Date:   Sun May 12 07:32:29 2019 +0530
+
+    Create README.md
+
+commit df873e2842f25327c6673afb41bba294dd2b3bca
+Author: Aniruddha7 <aniruddhaani93@gmail.com>
+Date:   Sun May 12 07:25:23 2019 +0530
+
+    Add files via upload
+
+commit 1f06ee91ac860d2d0bc70e57f888b83350d64174
+Author: Aniruddha7 <aniruddhaani93@gmail.com>
+Date:   Sun May 5 07:34:16 2019 +0530
+
+    Update Assignment 1B.md
+
+commit d23bad7a608e74b2dd15924d3fa2493b40eb6490
+Author: Aniruddha7 <aniruddhaani93@gmail.com>
+Date:   Sun May 5 07:30:41 2019 +0530
+
+    Delete (3x3).PNG
+
+commit 74357c1db42d7244df227b9add864c9378c1baac
+Author: Aniruddha7 <aniruddhaani93@gmail.com>
+Date:   Sun May 5 07:30:22 2019 +0530
+
+    Delete EVA_1.ipynb
+
+commit c51a9a1a1c28ef575fde05896c7e791727ea1aad
+Author: Aniruddha7 <aniruddhaani93@gmail.com>
+Date:   Sun May 5 07:29:29 2019 +0530
+
+    Rename README.md to Assignment 1A colab link.md
+
+commit 531d58ba5ba2023c4a119f07158d975dd80d1618
+Author: Aniruddha7 <aniruddhaani93@gmail.com>
+Date:   Sun May 5 07:28:19 2019 +0530
+
+    Create README.md
+
+commit b6e2667b11e0a89600a92b33e145c3c1e5c74ff1
+Author: Aniruddha7 <aniruddhaani93@gmail.com>
+Date:   Sun May 5 07:15:19 2019 +0530
+
+    Add files via upload
+
+commit cc33014b940dee2e926e0def95bb52835aacba63
+Author: Aniruddha7 <aniruddhaani93@gmail.com>
+Date:   Sun May 5 07:14:45 2019 +0530
+
+    Add files via upload
+
+commit 5b1e1e76c4f11f84d6f0358e4b2b180a981598b3
+Author: Aniruddha7 <aniruddhaani93@gmail.com>
+Date:   Sun May 5 07:01:19 2019 +0530
+
+    Add files via upload
+
+commit 3c7632ce996eecdcad93d5c7b748f5be3ffeb1e9
+Author: Aniruddha7 <aniruddhaani93@gmail.com>
+Date:   Sun May 5 03:35:18 2019 +0530
+
+    Update Assignment 1B.md
+
+commit 44ca61a396658357b2e6d42db59832621a400389
+Author: Aniruddha7 <aniruddhaani93@gmail.com>
+Date:   Sun May 5 03:34:48 2019 +0530
+
+    Update Assignment 1B.md
+
+commit cfbd9b0f03d8a7bf2657bc7673986412397000b6
+commit cfbd9b0f03d8a7bf2657bc7673986412397000b6
+Author: Aniruddha7 <aniruddhaani93@gmail.com>
+Date:   Sun May 5 01:51:26 2019 +0530
+
+    Add files via upload
+
+commit 0280a619d663f268c9a0d0be2f6ddc83b5cf3d93
+Author: Aniruddha7 <aniruddhaani93@gmail.com>
+Date:   Sun May 5 01:49:36 2019 +0530
+
+    Rename Assignment1B.md to Assignment 1B.md
+
+commit 443339371848d1a934484d9d2d79679f26411bbd
+Author: Aniruddha7 <aniruddhaani93@gmail.com>
+Date:   Sun May 5 01:47:20 2019 +0530
+
+    Update and rename README.md to Assignment1B.md
+
+commit a14bc83b51b58f841fdf78b60b4fc6bf24c648f1
+Author: Aniruddha7 <aniruddhaani93@gmail.com>
+Date:   Sun May 5 01:44:48 2019 +0530
+
+    Update README.md
+
+commit 359d9406eedf20eab138f4d074633a195d90d6a0
+Author: Aniruddha7 <aniruddhaani93@gmail.com>
+Date:   Sun May 5 01:42:59 2019 +0530
+
+    Update README.md
+
+commit 0e96f1ee5fbd78451034bc0a12a372b7ff3776ea
+Author: Aniruddha7 <aniruddhaani93@gmail.com>
+Date:   Sun May 5 01:42:31 2019 +0530
+
+    Update README.md
+
+commit 5f748c6d581ec53e832c6ae21a4bd0d8e3a4c11a
+Author: Aniruddha7 <aniruddhaani93@gmail.com>
+Date:   Sun May 5 01:42:05 2019 +0530
+
+    Update README.md
+
+commit 2c4b9b0860e6d792da93e8fe68b81eff62cf107c
+Author: Aniruddha7 <aniruddhaani93@gmail.com>
+Date:   Sun May 5 01:41:09 2019 +0530
+
+    Update README.md
+
+commit d65a3773c1e9089e45ba0f16aafedb48900ac9a7
+Author: Aniruddha7 <aniruddhaani93@gmail.com>
+Date:   Sun May 5 01:29:36 2019 +0530
+
+    Update README.md
+
+commit 4d88b3db1d49f7bf25647f9f319735e66eafba95
+Author: Aniruddha7 <aniruddhaani93@gmail.com>
+Date:   Sat May 4 11:50:01 2019 +0530
+
+    Initial commit
+(END)
