@@ -51,7 +51,11 @@ But we can improve overall performance by keeping two models and updating them f
 
 Once every two iterations, we update the weights of the Actor target by **Polyak averaging**
 
+**The steps are explained by using flow chart for each part of the code**
+
 ![](https://github.com/Aniruddha7/EVA/blob/master/Phase%20II/Session9/T3D_Flow_Chart.png)
+![](https://github.com/Aniruddha7/EVA/blob/master/Phase%20II/Session9/img21.png)
+
 
 
 Refence paper:-
