@@ -50,3 +50,10 @@ We build **TWO** kinds of actor models. One called the Actor Model and another c
 But we can improve overall performance by keeping two models and updating them from each other. 
 
 Once every two iterations, we update the weights of the Actor target by **Polyak averaging**
+
+![](https://github.com/Aniruddha7/EVA/blob/master/Phase%20II/Session9/T3D_Flow_Chart.png)
+
+
+Refence paper:-
+
+https://arxiv.org/pdf/1602.01783.pdf
