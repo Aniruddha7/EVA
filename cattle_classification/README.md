@@ -7,7 +7,7 @@ In this project we will try classifying the cattle images belonging to Herd size
 
 -> Pass these images for training using MobileNetV3 model since it is a lightweight model (weights files only have ~6Mb) that is best suited for deploying on mobile phones or other low end devices
 
--> Trian the model with 5 KFolds for 40 epochs separately and save the weights file for future reference. The reason behind implementing K-Fold is to get better accuracy and to avoid misclassification of images between different herds
+-> Train the model with 5 KFolds for 40 epochs separately and save the weights file for future reference. The reason behind implementing K-Fold is to get better accuracy and to avoid misclassification of images between different herds
 
 -> If the use case is such that you capture new images for classification, then you can directly use this pretrained weight that has trianed for 40 epochs
 
