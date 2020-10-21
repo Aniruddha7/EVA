@@ -14,8 +14,7 @@ Object detection of single or multiple objects using Tiny YoloV3 and inferencing
 
 6. Inference the model as the final step
 
-
-https://www.youtube.com/watch?v=DS6Qe0tiIq8&list=PLzbdvw99SKOcjhFFVQRR5gBcfcFDOydJf
+https://www.youtube.com/watch?v=ZbgP71gRFDU&t=35s
 
 
 ![](Ferrari.gif)
