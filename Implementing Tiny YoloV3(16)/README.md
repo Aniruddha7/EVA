@@ -6,7 +6,7 @@ Object detection of single or multiple objects using Tiny YoloV3 and inferencing
 
 2. Divide the dataset into train test format
 
-3. Calculation on anchor boxes according to dataset
+3. Calculation of anchor boxes according to dataset
 
 4. Zip the prepared data and upload it to Google Colab
 
