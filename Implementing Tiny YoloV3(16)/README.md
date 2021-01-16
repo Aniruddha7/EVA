@@ -1,6 +1,6 @@
 # Implementaton in Tiny YoloV3 based on Darknet
 
-Object detection of single or multiple objects using Tiny YoloV3 and inferencing it on Google colab. Since Colab provides free GPUs such as Nvidia P100/K80, we can instantly use these resources for training and testing the deep learning models. Here are the step for implementing this model for detecting cars.
+Object detection of single or multiple objects using Tiny YoloV3 and inferencing it on Google colab. Since Colab provides free GPUs such as Nvidia P100/K80, we can instantly use these resources for training and testing the deep learning models. Here are the steps for implementing this model for detecting cars.
 
 1. Create custom dataset of cars(~400) and annotate them using tools such as VGG image annotator or LabelImg
 
